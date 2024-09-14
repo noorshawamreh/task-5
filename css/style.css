@@ -1,0 +1,22 @@
+
+span{
+
+    color: darkgray;
+
+}
+.footer{
+    text-align: center;
+}
+.f1{
+    width:100% ;
+}
+.iteam{
+    float: left;
+    width: 33%;
+    
+}
+
+.f5{
+    clear: both;
+    width: 100%;
+}
